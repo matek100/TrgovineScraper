@@ -1,11 +1,5 @@
 # TrgovineScraper
-Web scrapper za večje slovenske živilske trgovine
+Web Scraper za slovenske živilske trgovine.
+Omogoča iskanje najcenejšega izdelka ter optimaziacijo nakupa najpogosteje kupljenih izdelkov v kombinaciji z popusti. 
 
-
-To do trgovine:
-Spar
-Marekator
-Lidl
-Hofer
-Jager
-Tuš
+Podprte trgovine:
